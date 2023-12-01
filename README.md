@@ -9,6 +9,7 @@ npm i ts-node
 ## 1) For run the game without the mods 
 first access the base_game folder
 then run the command
+
 cd base_game
 
 then run 
