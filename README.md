@@ -1,4 +1,4 @@
-# Groupe de douri_m 1017027
+# Game The hyrule castle
 
 ## You have to install node.js and ts-node
 run the command
