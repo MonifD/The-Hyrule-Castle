@@ -18,6 +18,7 @@ ts-node hyrule_castle.ts
 ## 2) for run the game withe the mods 
 access the mods folder
 then run the command
+
 cd mods
 
 then run 
